@@ -1,0 +1,14 @@
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\bin\Debug\net8.0\ForEGDoWhatWant.exe
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\bin\Debug\net8.0\ForEGDoWhatWant.deps.json
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\bin\Debug\net8.0\ForEGDoWhatWant.runtimeconfig.json
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\bin\Debug\net8.0\ForEGDoWhatWant.dll
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\bin\Debug\net8.0\ForEGDoWhatWant.pdb
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.AssemblyInfoInputs.cache
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.AssemblyInfo.cs
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.csproj.CoreCompileInputs.cache
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.dll
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\refint\ForEGDoWhatWant.dll
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.pdb
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ForEGDoWhatWant.genruntimeconfig.cache
+D:\study\VS\ForEGDoWhatWant\ForEGDoWhatWant\obj\Debug\net8.0\ref\ForEGDoWhatWant.dll
