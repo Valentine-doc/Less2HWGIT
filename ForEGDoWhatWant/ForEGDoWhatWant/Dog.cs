@@ -5,9 +5,10 @@ namespace ForEGDoWhatWant
     public class Dog : Animal   // класс Dog наследник класса Animal
     {
         public int age;   // public сделано для того, чтобы бы ОБРАТИТЬСЯ, то есть в классе puppy мы можем обратиться к breed
-
-        private string breed;   // privat сделано для того, чтобы НЕ ОБРАТИТЬСЯ, то есть в классе puppy мы не можем обратиться к breed
-
+        
+        //private string breed;   // privat сделано для того, чтобы НЕ ОБРАТИТЬСЯ, то есть в классе puppy мы не можем обратиться к breed
+        public string breed;    // поменяли privat на public, чтобы сделать код менее нагруженным и убрать лишнее
+        
         public string Name {  get; set; }
 
 
@@ -46,23 +47,15 @@ namespace ForEGDoWhatWant
             set { breed = value; }  // set 
         }
 
-        public Dog(string name, int age, string breed)
-        {
-            this.Name = "Петя";
-            this.Age = 4;
-            this.Breed = "Бульдог";
-        }
 
-
-        public Dog()
-        {
-        }
-
+        
         public void DisplayInfo()
         {
             Name = "Петя";
             Age = 4;
             Breed = "Бульдог";
+
+            Console.WriteLine($"Имя: {Name}, Возраст: {Age}, Порода: {Breed}");
         }
 
     }
