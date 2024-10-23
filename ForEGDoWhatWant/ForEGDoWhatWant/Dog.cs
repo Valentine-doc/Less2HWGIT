@@ -54,7 +54,7 @@ namespace ForEGDoWhatWant
             Name = "Петя";
             Age = 4;
             Breed = "Бульдог";
-            // теперь в классе Program выведет 2 результат
+
             Console.WriteLine($"Имя: {Name}, Возраст: {Age}, Порода: {Breed}");
         }
 
