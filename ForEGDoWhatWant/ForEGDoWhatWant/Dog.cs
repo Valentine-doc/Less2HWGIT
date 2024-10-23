@@ -46,23 +46,8 @@ namespace ForEGDoWhatWant
             get { return breed; }   // get 
             set { breed = value; }  // set 
         }
-
-        /*
-        Это не нужно, и this. не актуально при public
-        public Dog(string name, int age, string breed)
-        {
-            this.Name = "Петя";
-            this.Age = 4;
-            this.Breed = "Бульдог";
-        }
-        */
-
-        /*
-        Это тоже вообще ни к чему
-        public Dog()
-        {
-        }
-        */
+        
+        // Delete
         
         public void DisplayInfo()
         {
