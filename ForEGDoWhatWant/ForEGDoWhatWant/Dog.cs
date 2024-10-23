@@ -46,8 +46,8 @@ namespace ForEGDoWhatWant
             get { return breed; }   // get 
             set { breed = value; }  // set 
         }
-        
-        // Delete
+
+        //Delete
         
         public void DisplayInfo()
         {
