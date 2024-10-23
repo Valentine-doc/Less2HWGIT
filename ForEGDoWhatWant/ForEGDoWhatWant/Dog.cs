@@ -47,7 +47,7 @@ namespace ForEGDoWhatWant
             set { breed = value; }  // set 
         }
 
-        // НЕ ЗАБУДЬ УДАЛИТЬ!
+        // НЕ ЗАБУДЬ УДАЛИТЬ!!!
         /*
         Это не нужно, и this. не актуально при public
         public Dog(string name, int age, string breed)
