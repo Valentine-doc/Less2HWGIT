@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\VS\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj": {}
+    "C:\\Users\\vally\\Desktop\\GITTask1_In-depth_ForEG1\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj": {}
   },
   "projects": {
-    "D:\\study\\VS\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj": {
+    "C:\\Users\\vally\\Desktop\\GITTask1_In-depth_ForEG1\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\VS\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj",
+        "projectUniqueName": "C:\\Users\\vally\\Desktop\\GITTask1_In-depth_ForEG1\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj",
         "projectName": "ForEGDoWhatWant",
-        "projectPath": "D:\\study\\VS\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj",
+        "projectPath": "C:\\Users\\vally\\Desktop\\GITTask1_In-depth_ForEG1\\ForEGDoWhatWant\\ForEGDoWhatWant\\ForEGDoWhatWant.csproj",
         "packagesPath": "C:\\Users\\vally\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\VS\\ForEGDoWhatWant\\ForEGDoWhatWant\\obj\\",
+        "outputPath": "C:\\Users\\vally\\Desktop\\GITTask1_In-depth_ForEG1\\ForEGDoWhatWant\\ForEGDoWhatWant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
