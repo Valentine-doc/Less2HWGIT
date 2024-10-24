@@ -9,5 +9,3 @@ Add some documentation
 # See the comments in class Dog
 
 Example to less
-
-May be now return chenges be worked
