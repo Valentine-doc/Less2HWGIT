@@ -10,3 +10,6 @@ Line 7- its second change
 
 
 Line 12- its third change
+
+
+Homework: canceling commits in three ways DONE
