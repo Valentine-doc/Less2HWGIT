@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForEGDoWhatWant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22c139b4ea6b199c2c9df01506973fa43a2355fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e61154f2bf1d5eb360570c0d538d41768265f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForEGDoWhatWant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForEGDoWhatWant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
